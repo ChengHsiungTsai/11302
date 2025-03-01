@@ -1,2 +1,5 @@
-# 11302
-智慧城市導論
+以下為網址連結<br>
+<http://tw.yahoo.com> 
+<br>
+另一種網址連結<br>
+http://tw.yahoo.com
